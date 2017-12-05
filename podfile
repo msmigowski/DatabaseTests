@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'DatabaseTests' do
+	pod 'GRDB.swift', '~> 2.3'
+	pod 'RealmSwift', '~> 3.0'
+end 
